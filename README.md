@@ -5,7 +5,8 @@
 用法：
 
 ```powershell
-python C:\Users\ykla\Desktop\woff2.py  D:\LXGWWenKaiMonoGBScreen.ttf  changgui22m.woff2 C:\Users\ykla\Desktop\zi.txt
+PS C:\Users\ykla> pip install fonttools brotli 
+PS C:\Users\ykla> python C:\Users\ykla\Desktop\woff2.py  D:\LXGWWenKaiMonoGBScreen.ttf  changgui22m.woff2 C:\Users\ykla\Desktop\zi.txt
 ```
 
 - `D:\LXGWWenKaiMonoGBScreen.ttf` 是原字体名。
